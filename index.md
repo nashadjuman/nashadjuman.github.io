@@ -3,7 +3,7 @@ title: Nashad Juman GitHub Website
 description: Sharing work done in my CTBA Class
 ---
 
-![My Picture](/NJ_Office.jpg)
+![My Picture](/pics/NJ_Office.jpg)
 
 
 This is content I have developed for my courses:
