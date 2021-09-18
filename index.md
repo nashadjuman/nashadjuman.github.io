@@ -7,12 +7,11 @@ description: Sharing work done in my CTBA Class
 
 This is content I have developed for my courses:
 - [Time Series Decomposition](/TimeSeries/index.md)
----------------------
+
 ------------------------------------------------------------------------------------
 
 This is a poor place to link to a repository, but here is such a link:
 - [Sample Repository](https://github.com/nashadjuman/sample)
----------------------
 
 ------------------------------------------------------------------------------------
 
