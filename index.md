@@ -1,5 +1,5 @@
 ---
-title: Nashad Juman GitHub Website
+title: Nashad Juman
 description: Sharing work done in my CTBA Class
 ---
 
